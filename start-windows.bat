@@ -1,3 +1,1 @@
-call .\venv\Scripts\activate
-python main.py
-cmd /K
+call .\venv\Scripts\pythonw.exe main.py
