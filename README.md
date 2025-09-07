@@ -1,9 +1,9 @@
 # QuizBot
 
 
-In to get this app working, you should first download the zip file by going to the green "Code" button above and clicking "Download ZIP". After downloading, you should unzip the file to the working directory of your choice.
+In to get this app working, you should first download the zip file by going to the green "Code" button above and clicking "Download ZIP". After downloading, you should unzip the file to the working directory of your choice. If you haven't already done so at some point, you will need to open the microsoft store app and install Python 3.11 in order for the installer to work. The program should be able to work with other python versions, but you will need to set up your own environment and run it yourself. After running the installer and getting your key(instruction below) you should be able to run the start file and have it work.
 
-As long as you have something to run python files (either an ide or a interpreter) you technically have everything you need to run it. However since the app is based off of ChatGPT, you will need to get an API key in order for it to work past launching the interface. Next are instructions to generate a free key through github. If you get yourself a key through OpenAI, there will be a note at the bottom on how to get it working.
+Since the app is based off of ChatGPT, you will need to get an API key in order for it to work past launching the interface. Next are instructions to generate a free key through github. If you get yourself a key through OpenAI, there will be a note at the bottom on how to get it working.
 
 You can generate yourself a free key through github which will need an account for. Go to the following link
 https://github.com/marketplace/models/azure-openai/gpt-4o
