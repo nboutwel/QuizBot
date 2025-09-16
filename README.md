@@ -1,7 +1,7 @@
 # QuizBot
 
 
-In to get this app working, you should first download the zip file by going to the green "Code" button above and clicking "Download ZIP". After downloading, you should unzip the file to the working directory of your choice. If you haven't already done so at some point, you will need to open the microsoft store app and install Python 3.11 in order for the installer to work. The program should be able to work with other python versions, but you will need to set up your own environment and run it yourself. After running the installer and getting your key(instruction below) you should be able to run the start file and have it work.
+In to get this app working, you should first download the zip file by going to the green "Code" button above and clicking "Download ZIP". After downloading, you should unzip the file to the working directory of your choice. If you haven't already done so at some point, you will need to open the microsoft store app and install Python 3.11 in order for the installer to work. The program should be able to work with other python versions, but you will need to set up your own environment and run it yourself. The dependencies are customtkinter, openai, and dotenv. After running the installer and getting your key(instruction below) you should be able to run the start file and have it work.
 
 Since the app is based off of ChatGPT, you will need to get an API key in order for it to work past launching the interface. Next are instructions to generate a free key through github. If you get yourself a key through OpenAI, there will be a note at the bottom on how to get it working.
 
